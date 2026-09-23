@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.easychannel.iptv",
+      "sha256_cert_fingerprints": [
+        "3C:95:AA:75:5C:AD:A3:D1:CE:5B:2E:AA:F9:1B:9B:BB:E2:20:D7:4A:D0:FE:3D:8D:92:25:93:03:4A:E3:B7:75"
+      ]
+    }
+  }
+]
