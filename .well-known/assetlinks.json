@@ -7,6 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.easychannel.iptv",
       "sha256_cert_fingerprints": [
+        "FC:C8:57:E9:8B:06:F1:07:A0:9A:1E:A7:44:3C:22:31:FD:28:0C:73:2A:50:AE:75:7C:DB:31:AE:91:79:5F:9E",
+        "8B:D1:23:41:E4:C8:07:F0:36:28:2C:BC:A7:CE:13:A9:3C:A4:F0:05:4E:42:7E:90:B7:06:1A:71:AF:B9:FA:08",
         "3C:95:AA:75:5C:AD:A3:D1:CE:5B:2E:AA:F9:1B:9B:BB:E2:20:D7:4A:D0:FE:3D:8D:92:25:93:03:4A:E3:B7:75"
       ]
     }
